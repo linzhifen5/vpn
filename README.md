@@ -1,3 +1,6 @@
+#mac搭载参考：https://github.com/hwdsl2/setup-ipsec-vpn/blob/master/README-zh.md
+
+
 # 近期很多ip和端口被墙，请大家多多尝试，不要删除之后立刻新建服务器，容易导致分配删掉的ip
 
 # buildVpn 如果有什么问题，可以给我发邮件 yukaiji@hotmail.com
